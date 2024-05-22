@@ -1,0 +1,24 @@
+.footer {
+    background-color: #040015;
+    height: 24vh;
+    width: 100%;
+    border-radius: 0;
+}
+
+.title {
+    color: white;
+    font-weight: 500;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.footer-title {
+    color: white;
+    font-size: 18px;
+    text-align: right;
+    cursor: pointer;
+}
+
+.header-logo {
+    margin-right: 8px;
+}
